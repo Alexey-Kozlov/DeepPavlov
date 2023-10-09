@@ -1,0 +1,54 @@
+[{
+  "id": 22,
+  "data": {
+    "text": "Всего через пару дней королевич и Золушка сыграли пышную свадьбу и прожили всю жизнь душа в душу."
+  },
+  "annotations": [
+    {
+      "id": 33,
+      "created_username": " alexeytula@gmail.com, 2",
+      "created_ago": "0 minutes",
+      "completed_by": {
+        "id": 2,
+        "first_name": "",
+        "last_name": "",
+        "avatar": null,
+        "email": "alexeytula@gmail.com",
+        "initials": "al"
+      },
+      "result": [
+        {
+          "value": {
+            "start": 34,
+            "end": 41,
+            "text": "Золушка",
+            "labels": [
+              "PER"
+            ]
+          },
+          "id": "10S4cJPNF7",
+          "from_name": "label",
+          "to_name": "text",
+          "type": "labels",
+          "origin": "manual"
+        }
+      ],
+      "was_cancelled": false,
+      "ground_truth": false,
+      "created_at": "2023-10-09T18:34:09.852150Z",
+      "updated_at": "2023-10-09T18:34:09.852176Z",
+      "draft_created_at": null,
+      "lead_time": 8.647,
+      "import_id": null,
+      "last_action": null,
+      "task": 22,
+      "project": 1,
+      "updated_by": 2,
+      "parent_prediction": null,
+      "parent_annotation": null,
+      "last_created_by": null
+    }
+  ],
+  "predictions": []
+} 
+]
